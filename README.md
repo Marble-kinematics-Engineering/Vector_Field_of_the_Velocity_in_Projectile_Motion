@@ -20,7 +20,16 @@ Consequently, the validity of this study depends on monitoring the marbles' temp
 
 Si utilizas este código o el ejecutable en tu investigación, por favor cita el artículo técnico original utilizando el siguiente formato:
 
-Hidalgo-Fernández, Javier. (2026). * Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation*. Repository of Artificial Intelligence preprints (ai.viXra). viXra: 2606.0060. https://ai.vixra.org/abs/2606.0060
+Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Open Researcher and Contributor ID]. ORCID. https://orcid.org/0009-0006-5044-9430
+
+Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Incluye suplemento: Lagrangian formalism, coupling at the apex and Empirical validation of the new central field: Technical Supplement and Analytical Expansion of the Original]. Amazon KDP. https://www.amazon.es/dp/B0H89Y5V37
+
+Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.20960044
+
+Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Preprint]. ai.ViXrA. https://ai.vixra.org/abs/2606.0060
+
+Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Preprint]. Figshare.
+https://doi.org/10.6084/m9.figshare.32813108
 
 ## Instructions
 
