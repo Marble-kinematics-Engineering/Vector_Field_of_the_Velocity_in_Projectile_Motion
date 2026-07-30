@@ -30,11 +30,11 @@ Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion
 
 ## Instructions
 
-# Open-Access Code Distribution and Verifiability
+### Open-Access Code Distribution and Verifiability
 
 The computational animations and numerical simulations associated with the trajectory graphs were executed using script architectures written in Python. Adhering strictly to the Open Science philosophy, both the complete source code and the standalone executable environment are distributed openly under a Creative Commons license via GitHub, with permanent cryptographic archiving in repositories such as CERN Zenodo, Figshare, and ai.viXra. This framework enables independent researchers to execute, replicate, and verify the predictive capacity of the kinematic formulations against real-world data tracks.
 
-# Resolution of the Vertex Indeterminacy via Infinitesimal Phase Shift
+### Resolution of the Vertex Indeterminacy via Infinitesimal Phase Shift
 
 In classical projectile kinematics, modeling the exact coordinate transitions at the trajectory vertex (t - t_apex ) introduces a structural mathematical indeterminacy (1/0) within the density functions, a boundary singularity traditionally resolved only through analytical limits or discarded as an unphysical idealization.
 
