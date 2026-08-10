@@ -14,15 +14,21 @@ Following systematic data extraction from a high-speed frame-by-frame collision 
 
 Consequently, the experimental validity of this study relies on monitoring the projectiles' localized temperature at the impact boundary. As demonstrated analytically, mitigating thermal noise and ensuring strict molecular stability remain mandatory parameters to validate the non-conservative energy balance.
 
+## License and Intellectual Property
+
+This code repository is linked to the author's original research and is distributed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license. The theoretical content and equations that support this software are legally protected and registered with **Safe Creative**:
+* **Registration of the 1st Edition of the Book / Preprint:** 2607156402092
+* **Registration of the 2nd Edition of the Book:** 2608066660282
+
 ## Citation
 
-If you use this code or the executable in your research, please cite the original technical article using the following format:
+If you use this equation, code, or base your own academic or technical work on this research, please cite the preprint or the official book:
 
 Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Open Researcher and Contributor ID]. ORCID. https://orcid.org/0009-0006-5044-9430
 
 Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Includes supplement: Lagrangian formalism, coupling at the apex and Empirical validation of the new central field: Technical Supplement and Analytical Expansion of the Original]. Amazon KDP. https://www.amazon.es/dp/B0H89Y5V37
 
-Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.20960044
+Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.21829085
 
 Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Preprint]. ai.ViXrA. https://ai.vixra.org/abs/2606.0060
 
