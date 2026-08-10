@@ -26,7 +26,7 @@ If you use this equation, code, or base your own academic or technical work on t
 
 Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Open Researcher and Contributor ID]. ORCID. https://orcid.org/0009-0006-5044-9430
 
-Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Includes supplement: Lagrangian formalism, coupling at the apex and Empirical validation of the new central field: Technical Supplement and Analytical Expansion of the Original]. Amazon KDP. https://www.amazon.es/dp/B0H89Y5V37
+Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation (2nd ed.). Technical Research in Kinematic Engineering. Amazon KDP. https://www.amazon.es/dp/B0H89Y5V37
 
 Hidalgo Fernández, J. (2026). Vector Field of the Velocity in Projectile Motion: Mathematical Modeling and Empirical Validation [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.21829085
 
